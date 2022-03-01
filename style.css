@@ -1,0 +1,58 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note {
+    font-size: 17px;
+    font-family: monospace;
+    color: black;
+    font-weight: 700;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-image: url("https://previews.123rf.com/images/yusufdemirci/yusufdemirci1803/yusufdemirci180300121/97057880-a-vector-illustration-of-kids-background.jpg");
+    
+}
+
+.div_speed {
+    float: left;
+}
+
+.div_speed_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed {
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_volume {
+    float: right;
+}
+
+.div_volume_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume {
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button {
+    width: 130px;
+    font-size: 27px;
+}
+
+canvas {
+    border: 5px solid rgb(34, 255, 45);
+    border-radius: 20px;
+}
